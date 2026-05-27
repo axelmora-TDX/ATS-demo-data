@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#0F2444" rx="20"/>
+  <polygon points="100,20 168,60 168,140 100,180 32,140 32,60" fill="#1B3A6B"/>
+  <polygon points="100,32 158,66 158,134 100,168 42,134 42,66" fill="none" stroke="#4A90D9" stroke-width="2.5"/>
+  <text x="100" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="white">ATS</text>
+  <text x="100" y="128" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#4A90D9" letter-spacing="3">TECHNOLOGY</text>
+</svg>
