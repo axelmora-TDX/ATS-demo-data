@@ -1,5 +1,6 @@
 {
   "AB-201346": {
+    "externalId": "ACME-CUST-00001",
     "customerRef": "AB-201346",
     "customerName": "John Smith",
     "customerEmail": "john.smith@acmeclient.com",
@@ -26,6 +27,7 @@
     "satisfactionScore": "Good"
   },
   "RS-102313": {
+    "externalId": "ACME-CUST-00002",
     "customerRef": "RS-102313",
     "customerName": "Maria Rodriguez",
     "customerEmail": "m.rodriguez@acmeclient.com",
@@ -52,6 +54,7 @@
     "satisfactionScore": "Great"
   },
   "BC-607818": {
+    "externalId": "ACME-CUST-00003",
     "customerRef": "BC-607818",
     "customerName": "David Chen",
     "customerEmail": "d.chen@acmeclient.com",
@@ -78,6 +81,7 @@
     "satisfactionScore": "N/A"
   },
   "JK-001222": {
+    "externalId": "ACME-CUST-00004",
     "customerRef": "JK-001222",
     "customerName": "Sarah Johnson",
     "customerEmail": "s.johnson@acmeclient.com",
