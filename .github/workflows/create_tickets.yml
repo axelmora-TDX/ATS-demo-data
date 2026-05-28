@@ -3,6 +3,9 @@ name: Create Demo Tickets
 on:
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   create-tickets:
     runs-on: ubuntu-latest
@@ -10,10 +13,10 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -24,5 +27,5 @@ jobs:
         env:
           ZD_EMAIL: ${{ secrets.ZD_EMAIL }}
           ZD_API_TOKEN: ${{ secrets.ZD_API_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python create_tickets_1000.py
