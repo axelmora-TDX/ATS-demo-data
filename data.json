@@ -7930,5 +7930,33 @@
     "satisfactionScore": "N/A",
     "source": "self-service",
     "createdAt": "2026-07-21T22:10:17.256Z"
+  },
+  "JU-112593": {
+    "externalId": "ACME-CUST-817152",
+    "customerRef": "JU-112593",
+    "customerName": "Julia Flores",
+    "customerEmail": "juliaeflo@gmail.com",
+    "customerTier": "Platinum",
+    "customerPhone": "+13109267826",
+    "product": "Thunder",
+    "productSerialNumber": "THN-2026-50916",
+    "warrantyExpiry": "05.02.2027",
+    "price": "57.99",
+    "orderDate": "05.02.2026",
+    "deliveredDate": "05.08.2026",
+    "status": "Delivered",
+    "creditCard": "2492",
+    "cc_expiry": "07/30",
+    "trackingNumber": "1Z818408588533",
+    "estimatedDelivery": "N/A",
+    "shippingCarrier": "FedEx",
+    "shippingAddress": "N/A",
+    "signatureRequired": "Yes",
+    "previousTickets": "3",
+    "lastContactDate": "05.02.2026",
+    "lastContactReason": "Delivered",
+    "satisfactionScore": "Good",
+    "source": "self-service",
+    "createdAt": "2026-07-21T22:10:19.847Z"
   }
 }
