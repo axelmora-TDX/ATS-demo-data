@@ -8070,5 +8070,33 @@
     "satisfactionScore": "Great",
     "source": "self-service",
     "createdAt": "2026-07-21T22:10:28.777Z"
+  },
+  "JE-272947": {
+    "externalId": "ACME-CUST-653883",
+    "customerRef": "JE-272947",
+    "customerName": "Jelizabeth Flores",
+    "customerEmail": "juflores@kippla.org",
+    "customerTier": "Platinum",
+    "customerPhone": "+13109267826",
+    "product": "Lightning",
+    "productSerialNumber": "LTN-2025-85345",
+    "warrantyExpiry": "N/A",
+    "price": "461.99",
+    "orderDate": "05.27.2025",
+    "deliveredDate": "06.02.2025",
+    "status": "Delivered",
+    "creditCard": "7465",
+    "cc_expiry": "04/27",
+    "trackingNumber": "1Z795748570965",
+    "estimatedDelivery": "N/A",
+    "shippingCarrier": "FedEx",
+    "shippingAddress": "N/A",
+    "signatureRequired": "Yes",
+    "previousTickets": "1",
+    "lastContactDate": "05.27.2025",
+    "lastContactReason": "Delivered (prior year)",
+    "satisfactionScore": "N/A",
+    "source": "self-service",
+    "createdAt": "2026-07-21T23:14:13.965Z"
   }
 }
