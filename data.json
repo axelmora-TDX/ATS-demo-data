@@ -8014,5 +8014,33 @@
     "satisfactionScore": "Good",
     "source": "self-service",
     "createdAt": "2026-07-21T22:10:24.526Z"
+  },
+  "JU-112596": {
+    "externalId": "ACME-CUST-817152",
+    "customerRef": "JU-112596",
+    "customerName": "Julia Flores",
+    "customerEmail": "juliaeflo@gmail.com",
+    "customerTier": "Platinum",
+    "customerPhone": "+13109267826",
+    "product": "Stormcloud",
+    "productSerialNumber": "SCL-2026-30399",
+    "warrantyExpiry": "07.07.2027",
+    "price": "238.99",
+    "orderDate": "07.07.2026",
+    "deliveredDate": "07.11.2026",
+    "status": "Delivered",
+    "creditCard": "9476",
+    "cc_expiry": "01/31",
+    "trackingNumber": "1Z707987815682",
+    "estimatedDelivery": "N/A",
+    "shippingCarrier": "DHL",
+    "shippingAddress": "N/A",
+    "signatureRequired": "Yes",
+    "previousTickets": "0",
+    "lastContactDate": "07.07.2026",
+    "lastContactReason": "Delivered recently",
+    "satisfactionScore": "Good",
+    "source": "self-service",
+    "createdAt": "2026-07-21T22:10:26.675Z"
   }
 }
