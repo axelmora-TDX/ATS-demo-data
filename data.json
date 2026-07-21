@@ -8042,5 +8042,33 @@
     "satisfactionScore": "Good",
     "source": "self-service",
     "createdAt": "2026-07-21T22:10:26.675Z"
+  },
+  "JU-112597": {
+    "externalId": "ACME-CUST-817152",
+    "customerRef": "JU-112597",
+    "customerName": "Julia Flores",
+    "customerEmail": "juliaeflo@gmail.com",
+    "customerTier": "Platinum",
+    "customerPhone": "+13109267826",
+    "product": "Lightning",
+    "productSerialNumber": "LTN-2026-67792",
+    "warrantyExpiry": "N/A",
+    "price": "380.99",
+    "orderDate": "07.20.2026",
+    "deliveredDate": "N/A",
+    "status": "Processing",
+    "creditCard": "7967",
+    "cc_expiry": "06/27",
+    "trackingNumber": "N/A",
+    "estimatedDelivery": "08.10.2026",
+    "shippingCarrier": "FedEx",
+    "shippingAddress": "N/A",
+    "signatureRequired": "No",
+    "previousTickets": "0",
+    "lastContactDate": "07.20.2026",
+    "lastContactReason": "New order",
+    "satisfactionScore": "Great",
+    "source": "self-service",
+    "createdAt": "2026-07-21T22:10:28.777Z"
   }
 }
