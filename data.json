@@ -8090,5 +8090,33 @@
     "satisfactionScore": "N/A",
     "source": "self-service",
     "createdAt": "2026-07-22T01:40:53.293Z"
+  },
+  "AX-856875": {
+    "externalId": "ACME-CUST-10qncg51esvh",
+    "customerRef": "AX-856875",
+    "customerName": "Ax Mo",
+    "customerEmail": "underrated50@yahoo.com",
+    "customerTier": "Platinum",
+    "customerPhone": "N/A",
+    "product": "Stormcloud",
+    "productSerialNumber": "SCL-2026-37106",
+    "warrantyExpiry": "07.07.2027",
+    "price": "73.99",
+    "orderDate": "07.07.2026",
+    "deliveredDate": "07.11.2026",
+    "status": "Delivered",
+    "creditCard": "9967",
+    "cc_expiry": "10/30",
+    "trackingNumber": "1Z178906024513",
+    "estimatedDelivery": "N/A",
+    "shippingCarrier": "DHL",
+    "shippingAddress": "N/A",
+    "signatureRequired": "No",
+    "previousTickets": "4",
+    "lastContactDate": "07.07.2026",
+    "lastContactReason": "Delivered recently",
+    "satisfactionScore": "Great",
+    "source": "self-service",
+    "createdAt": "2026-07-22T01:40:55.618Z"
   }
 }
