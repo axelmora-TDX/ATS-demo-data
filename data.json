@@ -8006,5 +8006,33 @@
     "satisfactionScore": "Great",
     "source": "self-service",
     "createdAt": "2026-07-22T01:40:45.353Z"
+  },
+  "AX-856872": {
+    "externalId": "ACME-CUST-10qncg51esvh",
+    "customerRef": "AX-856872",
+    "customerName": "Ax Mo",
+    "customerEmail": "underrated50@yahoo.com",
+    "customerTier": "Platinum",
+    "customerPhone": "N/A",
+    "product": "Thunder",
+    "productSerialNumber": "THN-2026-87802",
+    "warrantyExpiry": "05.02.2027",
+    "price": "424.99",
+    "orderDate": "05.02.2026",
+    "deliveredDate": "05.08.2026",
+    "status": "Delivered",
+    "creditCard": "6460",
+    "cc_expiry": "01/31",
+    "trackingNumber": "1Z267616208704",
+    "estimatedDelivery": "N/A",
+    "shippingCarrier": "USPS",
+    "shippingAddress": "N/A",
+    "signatureRequired": "No",
+    "previousTickets": "3",
+    "lastContactDate": "05.02.2026",
+    "lastContactReason": "Delivered",
+    "satisfactionScore": "Good",
+    "source": "self-service",
+    "createdAt": "2026-07-22T01:40:47.662Z"
   }
 }
