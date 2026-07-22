@@ -8202,5 +8202,33 @@
     "satisfactionScore": "Good",
     "source": "self-service",
     "createdAt": "2026-07-22T21:43:28.680Z"
+  },
+  "RE-160282": {
+    "externalId": "ACME-CUST-199g7x4erdbf",
+    "customerRef": "RE-160282",
+    "customerName": "Relaxel",
+    "customerEmail": "axelscloud@me.com",
+    "customerTier": "Platinum",
+    "customerPhone": "+17025240000",
+    "product": "Stormcloud",
+    "productSerialNumber": "SCL-2026-54241",
+    "warrantyExpiry": "N/A",
+    "price": "94.99",
+    "orderDate": "04.03.2026",
+    "deliveredDate": "04.09.2026",
+    "status": "Delivered",
+    "creditCard": "7160",
+    "cc_expiry": "06/31",
+    "trackingNumber": "1Z320244941804",
+    "estimatedDelivery": "N/A",
+    "shippingCarrier": "UPS",
+    "shippingAddress": "N/A",
+    "signatureRequired": "No",
+    "previousTickets": "1",
+    "lastContactDate": "04.03.2026",
+    "lastContactReason": "Delivered",
+    "satisfactionScore": "Good",
+    "source": "self-service",
+    "createdAt": "2026-07-22T21:43:32.573Z"
   }
 }
