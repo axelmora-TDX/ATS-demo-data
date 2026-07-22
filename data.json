@@ -8286,5 +8286,33 @@
     "satisfactionScore": "N/A",
     "source": "self-service",
     "createdAt": "2026-07-22T21:20:23.827Z"
+  },
+  "RE-842363": {
+    "externalId": "ACME-CUST-199g7x4erdbf",
+    "customerRef": "RE-842363",
+    "customerName": "Relaxel",
+    "customerEmail": "axelscloud@me.com",
+    "customerTier": "Platinum",
+    "customerPhone": "+17025248839",
+    "product": "Lightning",
+    "productSerialNumber": "LTN-2026-48820",
+    "warrantyExpiry": "N/A",
+    "price": "492.99",
+    "orderDate": "07.21.2026",
+    "deliveredDate": "N/A",
+    "status": "Processing",
+    "creditCard": "3920",
+    "cc_expiry": "12/29",
+    "trackingNumber": "N/A",
+    "estimatedDelivery": "08.11.2026",
+    "shippingCarrier": "UPS",
+    "shippingAddress": "N/A",
+    "signatureRequired": "Yes",
+    "previousTickets": "4",
+    "lastContactDate": "07.21.2026",
+    "lastContactReason": "New order",
+    "satisfactionScore": "Great",
+    "source": "self-service",
+    "createdAt": "2026-07-22T21:20:26.119Z"
   }
 }
