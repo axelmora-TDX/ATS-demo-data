@@ -8174,5 +8174,33 @@
     "satisfactionScore": "Good",
     "source": "self-service",
     "createdAt": "2026-07-22T21:20:12.876Z"
+  },
+  "RE-842359": {
+    "externalId": "ACME-CUST-199g7x4erdbf",
+    "customerRef": "RE-842359",
+    "customerName": "Relaxel",
+    "customerEmail": "axelscloud@me.com",
+    "customerTier": "Platinum",
+    "customerPhone": "+17025248839",
+    "product": "Thunder",
+    "productSerialNumber": "THN-2026-13577",
+    "warrantyExpiry": "05.03.2027",
+    "price": "228.99",
+    "orderDate": "05.03.2026",
+    "deliveredDate": "05.09.2026",
+    "status": "Delivered",
+    "creditCard": "4895",
+    "cc_expiry": "08/27",
+    "trackingNumber": "1Z520988369268",
+    "estimatedDelivery": "N/A",
+    "shippingCarrier": "USPS",
+    "shippingAddress": "N/A",
+    "signatureRequired": "Yes",
+    "previousTickets": "4",
+    "lastContactDate": "05.03.2026",
+    "lastContactReason": "Delivered",
+    "satisfactionScore": "Great",
+    "source": "self-service",
+    "createdAt": "2026-07-22T21:20:15.574Z"
   }
 }
